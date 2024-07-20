@@ -1,5 +1,7 @@
 # Appointment
 
+> Moved to <https://github.com/juliuskrah/experiments/appointment>
+
 Simple appointment tracking app for doctors (API only). Appointment slots are grouped by day.
 
 ```json
